@@ -1,12 +1,11 @@
-
-import Header from './partials/header/header'
-
+import React from 'react';
 import './App.scss';
 
 function App() {
   return (
-         <Header/>
+    <div className="App">
 
+    </div>
   );
 }
 
